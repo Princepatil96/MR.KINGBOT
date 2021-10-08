@@ -1,7 +1,7 @@
 <h1 align = "center"> ❝𝗧𝗛𝗘 𝗠𝗢𝗦𝗧 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗚𝗥𝗢𝗨𝗣 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 𝗕𝗢𝗧❞ </h1>
 
 
-<p align = "center"><a herf = "https://t.me/MR_KING_RO_BOT" alt = "MR.KING"><img src = "https://telegra.ph/file/5b2d53ca4f6142650ff15.jpg" width = "900"></a></p>
+<p align = "center"><a herf = "https://t.me/MR_KING_RO_BOT" alt = "MR.KING"><img src = "https://telegra.ph/file/9c71bd26b7772df92684a.jpg" width = "900"></a></p>
 
 <p align = "center">
 <a href = "https://python.org">
