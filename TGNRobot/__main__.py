@@ -81,18 +81,18 @@ PM_START_TEXT = """💫 HOI....♥️
 buttons = [
     [
         InlineKeyboardButton(
-            text="🤗KIDNAP KR LO MUZE🥺", url="t.me/MR_KING_RO_BOT?startgroup=true"),
+            text="🤗KIDNAP KR LO MUZE🥺", url="t.me/KING_PRINCE_ROBOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🔱 OWNER 🔱", url=f"https://t.me/vijay114220"),
+        InlineKeyboardButton(text="🔱 OWNER 🔱", url=f"https://t.me/Princepatil96k"),
         InlineKeyboardButton(
-            text="🅰️BOUT ME", url=f"https://t.me/TgW0RLD/26"
+            text="🅰️BOUT ME", url=f"https://t.me/STUDY_FLOWER/26"
         ),
     ],
     [
-        InlineKeyboardButton(text="UPDATE☑️", url=f"https://t.me/TgW0RLD"),
+        InlineKeyboardButton(text="UPDATE☑️", url=f"https://t.me/STUDY_FLOWER"),
         InlineKeyboardButton(
-            text="SUPPORT GROUP🤗", url=f"https://t.me/TG_CHATHUB"
+            text="SUPPORT GROUP🤗", url=f"https://t.me/STUDY_FLOWER_QUIZ_GROUP"
         ),
     ],
     [
@@ -107,9 +107,9 @@ HELP_STRINGS = """🔳  YOU CAN CHOOSE AN OTION BELOW, BY CLICKING A BUTTON..
 ▓➪ /help ->> {MODULE NAME} : PM'S YOU INFO ABOUT THAT MODULE..
 ▓➪ ALL COMMANDS CAN EITHER BE USED WITH (/) OR (!)..
 
-🔳 ALSO YOU CAN ASK ANYTHING IN [SUPPORT GROUP](https://t.me/TG_CHATHUB) [🤗](https://telegra.ph/file/5b2d53ca4f6142650ff15.jpg)"""
+🔳 ALSO YOU CAN ASK ANYTHING IN [SUPPORT GROUP](https://t.me/STUDY_FLOWER) [🤗](https://telegra.ph/file/9c71bd26b7772df92684a.jpg)"""
 
-START_IMG = "https://telegra.ph/file/5b2d53ca4f6142650ff15.jpg"
+START_IMG = "https://telegra.ph/file/9c71bd26b7772df92684a.jpg"
 
 
 IMPORTED = {}
@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code> 𓄂MR.KINGBOT࿐ is Here For You❤\nI 🅰️m 🅰️wake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code> KING PRINCE is Here For You❤\nI 🅰️m 🅰️wake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
