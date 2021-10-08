@@ -75,16 +75,16 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """💫 HOI....♥️
 🟡 I AM HERE TO HELP YOU TO MANAGE YOUR GROUPS AND I AM VERY POWERFULL BOT!!
-🟡YOU CAN FIND THE LIST OF AVALABLE COMMANDS WITH /help [♥️](https://telegra.ph/file/79ad876457906a1137917.jpg)
+🟡YOU CAN FIND THE LIST OF AVALABLE COMMANDS WITH /help [♥️](https://telegra.ph/file/9c71bd26b7772df92684a.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🤗KIDNAP KR LO MUZE🥺", url="t.me/KING_PRINCE_ROBOT?startgroup=true"),
+            text="🤗PRINCE KO ADD KARO💝", url="t.me/KING_PRINCE_ROBOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🔱 OWNER 🔱", url=f"https://t.me/Princepatil96k"),
+        InlineKeyboardButton(text="👑 OWNER 👑", url=f"https://t.me/Princepatil96k"),
         InlineKeyboardButton(
             text="🅰️BOUT ME", url=f"https://t.me/STUDY_FLOWER/26"
         ),
@@ -107,7 +107,7 @@ HELP_STRINGS = """🔳  YOU CAN CHOOSE AN OTION BELOW, BY CLICKING A BUTTON..
 ▓➪ /help ->> {MODULE NAME} : PM'S YOU INFO ABOUT THAT MODULE..
 ▓➪ ALL COMMANDS CAN EITHER BE USED WITH (/) OR (!)..
 
-🔳 ALSO YOU CAN ASK ANYTHING IN [SUPPORT GROUP](https://t.me/STUDY_FLOWER) [🤗](https://telegra.ph/file/9c71bd26b7772df92684a.jpg)"""
+🔳 ALSO YOU CAN ASK ANYTHING IN [SUPPORT GROUP](https://t.me/STUDY_FLOWER_QUIZ_GROUP) [🤗](https://telegra.ph/file/9c71bd26b7772df92684a.jpg)"""
 
 START_IMG = "https://telegra.ph/file/9c71bd26b7772df92684a.jpg"
 
